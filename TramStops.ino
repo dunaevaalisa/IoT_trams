@@ -1,4 +1,4 @@
-gi#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <WiFiClientSecure.h>
